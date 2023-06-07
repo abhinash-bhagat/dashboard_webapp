@@ -1,3 +1,6 @@
+# Link to Webapp.
+
+
 # BrainCatch Sales Dashboard
 This repository contains code for the BrainCatch Sales Dashboard, which visualizes and analyzes sales data from a store. The dashboard is built using Streamlit and Plotly libraries in Python.
 
@@ -7,7 +10,7 @@ To run the dashboard locally, follow these steps:
 1. Clone the repository:
 
    ```shell
-   https://github.com/abhinash-bhagat/movie_recommender.git
+   https://github.com/abhinash-bhagat/dashboard_webapp.git
    
 2. Install the required dependencies:
 
