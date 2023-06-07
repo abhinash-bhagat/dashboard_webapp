@@ -16,7 +16,7 @@ st.markdown("""
         <h1 style="text-align: center;">BrainCatch Sales Dashboard</h1>
     """,unsafe_allow_html=True)
 intro = st.markdown("""
-        <h6 style="text-align: center;">Select the Year to visualize the Report and analyze it.</h6>
+        <h6 style="text-align: center;">Select the Year from the sidebar to visualize the Report and analyze it.</h6>
     """,unsafe_allow_html=True)
 
 #**********************************************************************************************
