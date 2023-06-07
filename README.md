@@ -10,7 +10,7 @@ To run the dashboard locally, follow these steps:
 1. Clone the repository:
 
    ```shell
-   https://github.com/abhinash-bhagat/dashboard_webapp.git
+   https://github.com/abhinash-bhagat/sales-dashboard-webapp.git
    
 2. Install the required dependencies:
 
